@@ -18,6 +18,6 @@ public class prasad{
             }
 
         }
-      System.out.pritln("Exit"+" ");
+      System.out.pritln("Exit"+" "+" ");
     }
 }
